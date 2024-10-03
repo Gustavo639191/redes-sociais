@@ -1,1 +1,1 @@
-# rede-socias
+# redes-sociais
